@@ -10,12 +10,12 @@ const App = () => {
         <Navbar />
         <Hero />
       </section>
-      <section id='Services'>
-        <Parallax type='services' />
+      <section id='Skillset'>
+        <Parallax type='skillset' />
       </section>
       <section>Services</section>
-      <section id='Portfolio'>
-        <Parallax type='portfolio' />
+      <section id='Projects'>
+        <Parallax type='projects' />
       </section>
       <section>Portfolio1</section>
       <section>Portfolio2</section>
